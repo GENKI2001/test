@@ -7,4 +7,4 @@ def main():
     return n
 
 x = main()
-print(x)
+print(x, "fuck")
