@@ -1,3 +1,3 @@
 print("Hello World")
 
-#こんにちは
+print("こんにちは")
